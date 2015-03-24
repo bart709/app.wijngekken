@@ -8,9 +8,15 @@
 
 <name>Wijngekken</name>
 
-<description>3 gekken die houden van wijn</description>
+<description>
+De WijnGekken… een neus voor goede wijn ! 
 
-<author email="chris@" href="#">testmail</author>
+
+Hét wijnblog dat jou alles vertelt wat jij wilt weten over wijn 
+Proefnotities, wijnnieuws, de lekkerste en de beste wijnen uit de wijnwereld
+</description>
+
+<author email="info@wijngekken.nl" href="#">Wijngekken</author>
 
 <preference name="phonegap-version" value="3.6.3" />
 <feature name="http://api.phonegap.com/1.0/device" />
@@ -26,11 +32,11 @@
 <gap:plugin name="org.apache.cordova.splashscreen" />
 <gap:plugin name="org.apache.cordova.contacts" />
 <gap:plugin name="org.apache.cordova.geolocation" />
-<gap:plugin name="org.apache.cordova.inappbrowser" />
 <gap:plugin name="org.apache.cordova.dialogs" />
 -->
 
 <!-- enabled plugins -->
+<gap:plugin name="org.apache.cordova.inappbrowser" />
 <gap:plugin name="org.apache.cordova.vibration" />
 <gap:plugin name="org.apache.cordova.network-information" />
 <gap:plugin name="com.simplec.plugins.localnotification" />

@@ -8,9 +8,9 @@
 
 <name>Wijngekken</name>
 
-<description>De WijnGekken… een neus voor goede wijn!</description>
+<description>De WijnGekkenâ€¦ een neus voor goede wijn</description>
 
-<author email="@wijngekken" href="info@wijngekken.nl">Mail de Wijngekken</author>
+<author email="@wijngekken" href="info@wijngekken.nl">Wijngekken</author>
 
 <preference name="phonegap-version" value="3.6.3" />
 <feature name="http://api.phonegap.com/1.0/device" />

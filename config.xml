@@ -8,15 +8,9 @@
 
 <name>Wijngekken</name>
 
-<description>
-De WijnGekken… een neus voor goede wijn ! 
+<description>De WijnGekken… een neus voor goede wijn! Hét wijnblog dat jou alles vertelt wat jij wilt weten over wijn Proefnotities, wijnnieuws, de lekkerste en de beste wijnen uit de wijnwereld.</description>
 
-
-Hét wijnblog dat jou alles vertelt wat jij wilt weten over wijn 
-Proefnotities, wijnnieuws, de lekkerste en de beste wijnen uit de wijnwereld
-</description>
-
-<author email="info@wijngekken.nl" href="#">Wijngekken</author>
+<author email="wijngekken" href="info@wijngekken.nl">Mail de Wijngekken</author>
 
 <preference name="phonegap-version" value="3.6.3" />
 <feature name="http://api.phonegap.com/1.0/device" />
